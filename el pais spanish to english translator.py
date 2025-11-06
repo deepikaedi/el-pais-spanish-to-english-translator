@@ -7,8 +7,8 @@ from deep_translator import GoogleTranslator
 from collections import Counter
 import concurrent.futures
 
-USERNAME = "kondepogudeepika_sMF6UK"
-ACCESS_KEY = "a8HjzA4NYyZspD5d6fAV"
+USERNAME = "your_browsestack username"
+ACCESS_KEY = "your_browserstack access key"
 URL = f"https://{USERNAME}:{ACCESS_KEY}@hub-cloud.browserstack.com/wd/hub"
 
 
